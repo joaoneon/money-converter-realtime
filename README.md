@@ -1,12 +1,12 @@
 <h1 align="center">
-  Conversor de moedas com valores em tempo real
+  Real time money converter
 </h1>
 
 <p align="center">
   <img src="https://github.com/joaoneon/money-converter-realtime/assets/6489188/89f971a5-2817-4b92-b082-e0461cdbfc1d" alt="animated" />
 </p>
 <h3 align="center">
-  técnologias utilizadas:  
+  Technologys used:  
 </h3>
 <table align="center" height="250px">
  <td align="center">
@@ -35,8 +35,8 @@
         </td>
 </table>
   <h3 align="left">
-  Sobre o projeto:  
+  About the project:  
 </h3>
   <p align="left">
-    O projeto é um simples conversor de moedas, utilizando uma api para acessar os valores atuais das moedas. No código do projeto, é demonstrado duas maneiras de acessar apis e resgatar os valores atuais das moedas.
+    The project is a simple money converter, using an api to acess the real time values of the coins. In the project code, i show the use of two different ways of accessing an api and getting the coin values.
   </p>
